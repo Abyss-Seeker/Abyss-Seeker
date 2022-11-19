@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abyss-Seeker!
-- 👀 I’m interested in ACGN
+- 👀 I’m interested in furries (maybe, lol)
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on currently only random projects...
 
