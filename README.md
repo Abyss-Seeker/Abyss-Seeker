@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Abyss-Seeker!
-- 👀 I’m interested in furries (maybe, lol)
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on currently only random projects...
+Hi there~ So glad you are here to visit my homepage (though there's nothing here)
+
+You can contact me by:
+
+Discord: abyss.seeker (Online frequency at least once per week)
+Wechat: AbyssSeeker (Not frequently online)
+
+Anyways, have a nice day~
 
 <!---
 Abyss-Seeker/Abyss-Seeker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
